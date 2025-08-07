@@ -4,4 +4,4 @@
 
 ### Google Data Analytics Badge
 
-[Click here to view the Coursera badge](https://github.com/ainur-kakimova/Certificates/blob/main/GoogleDataAnalyticsProfessionalCertificatev2_Badge20250804-31-opclkr.pdf?raw=true)
+[Click here to view my Coursera badge](https://github.com/ainur-kakimova/Certificates/blob/main/GoogleDataAnalyticsProfessionalCertificatev2_Badge20250804-31-opclkr.pdf?raw=true)
