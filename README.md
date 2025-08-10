@@ -5,3 +5,6 @@
 ### Google Data Analytics Badge
 
 [Click here to view my Coursera badge](https://github.com/ainur-kakimova/Certificates/blob/main/GoogleDataAnalyticsProfessionalCertificatev2_Badge20250804-31-opclkr.pdf?raw=true)
+
+### Product Analytics and AI
+[Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/Coursera_Product_Analytics_and_AI.pdf?raw=true)
