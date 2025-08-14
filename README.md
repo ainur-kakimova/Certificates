@@ -10,7 +10,7 @@
 [Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/Coursera_Product_Analytics_and_AI.pdf?raw=true)
 
 ### Data Analysis with Python
-[Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/Data_analysis_with_Python.pdf?raw=true)
+[Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/Data_analysis_with_Python_Certificate.pdf?raw=true)
 
 ### Data Analysis with R
-[Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/Data_analysis_with_R.pdf?raw=true)
+[Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/Data_analysis_with_R_certificate.pdf?raw=true)
