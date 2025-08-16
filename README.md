@@ -14,3 +14,6 @@
 
 ### Data Analysis with R
 [Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/Data_analysis_with_R_certificate.pdf?raw=true)
+
+### Power B
+[Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/Power_BI_certificate.pdf?raw=true)
