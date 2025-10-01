@@ -19,7 +19,7 @@
 [Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/Power_BI_certificate.pdf?raw=true)
 
 ### Doctoral Summer School, LERU (The League of European Research Universities): Re-evaluating the Role of the Expert, Trinity College Dublin-Ireland, 2021
-[Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/14. LERU_Ainur Kakimova.pdf?raw=true)
+[Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/LERU_Ainur_Kakimova.pdf?raw=true)
 
 ### Doctoral Summer School: The Psycholinguistics of Multilingualism, University of Warsaw-Poland, 2021
 [Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/Certificate_Summer School_Multilingualism.pdf?raw=true)
