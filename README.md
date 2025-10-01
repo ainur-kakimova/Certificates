@@ -17,3 +17,26 @@
 
 ### Power BI
 [Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/Power_BI_certificate.pdf?raw=true)
+
+### Doctoral Summer School, LERU (The League of European Research Universities): Re-evaluating the Role of the Expert, Trinity College Dublin-Ireland, 2021
+[Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/14. LERU_Ainur Kakimova.pdf?raw=true)
+
+### Doctoral Summer School: The Psycholinguistics of Multilingualism, University of Warsaw-Poland, 2021
+[Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/Certificate_Summer School_Multilingualism.pdf?raw=true)
+
+### ELIT Trainings including Literary Theory and Text Analysis, University of Verona-Italy, 2020-2021
+[Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/ELIT_Certificate.pdf?raw=true)
+
+### Getting Published: Effectively Communicating Your Research – Workshop organized by Nature Research Academies, 2021
+[Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/nature research.pdf?raw=true)
+
+### ELIT from Lab to Life: Seminar 1, University of Warsaw-Poland, University of Vienna-Austria, Free University of Berlin-Germany, 2023
+[Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/ELITSem1Attendance_Ainur.pdf?raw=true)
+
+### ELIT seminar 2: Empathy and Health Benefits of Shared Reading, Vrije Universiteit Amsterdam, 2023
+[Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/Certificate of attendance_seminar2_Ainur.pdf?raw=true)
+
+### Grant Proposal Writing ELIT workshop, Vrije Universiteit Amsterdam-Netherlands, 2023
+[Click here to view my certificate](https://github.com/ainur-kakimova/Certificates/blob/main/Certificate of participation_grant_proposal.pdf?raw=true)
+
+
